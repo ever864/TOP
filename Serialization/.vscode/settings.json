@@ -1,0 +1,7 @@
+
+  
+{
+  "solargraph.transport": "stdio",
+  "solargraph.formatting": true,
+  "solargraph.diagnostics": true
+}
